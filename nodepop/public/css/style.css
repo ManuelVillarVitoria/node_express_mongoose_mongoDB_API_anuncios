@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: rgb(97, 35, 35);
+  text-align: center;
+}
+
+

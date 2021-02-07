@@ -1,0 +1,46 @@
+{
+    "anuncios": [
+    {
+        "nombre": "Bicicleta",
+        "venta": true,
+        "precio": 285,
+        "foto": "bici.jpg",
+        "tags": [ "lifestyle", "motor"]
+    },
+    {
+        "nombre": "iPhone 3GS",
+        "venta": false,
+        "precio": 270,
+        "foto": "iphone.png",
+        "tags": [ "lifestyle", "mobile"]
+    },
+    {
+        "nombre": "MackBookPro",
+        "venta" : true,
+        "precio": 1450,
+        "foto": "pc.jpg",
+        "tags": ["work", "lifestyle"]
+    },
+    {
+        "nombre": "Audifonos Sony",
+        "venta": true,
+        "precio": 55.00,
+        "foto": "audifonos.png",
+        "tags": ["lifestyle"]
+    },
+    {
+        "nombre": "Smartwatch",
+        "venta": true,
+        "precio": 72.00,
+        "foto": "smartwatch.png",
+        "tags": ["mobile", "lifestyle"]
+    },
+    {
+        "nombre": "Mochila",
+        "venta": false,
+        "precio": 35.00,
+        "foto": "mochila.png",
+        "tags": ["work", "lifestyle"]
+    }
+    ]
+}
